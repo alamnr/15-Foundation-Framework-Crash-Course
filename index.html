@@ -160,16 +160,31 @@
         <label>Password</label>
         <input type="password">
         <p class="help-text">Your password must be 8 character or more</p>
+      </form>
+    </div>
 
         <div class="input-group">
+          <span class="input-group-label">@</span>
           <input class="input-group-field" type="email">
+
           <div class="input-group-button">
             <input type="submit" class="button" value="Submit">
           </div>
         </div>
-      </form>
+        <div class="switch">
+          <input class="switch-input" id="mySwitch" type="checkbox" name="exampleSwitch">
+          <label class="switch-paddle" for="mySwitch">
+            <span class="show-for-sr">Enabled</span>
+          </label>
+        </div>
 
+        <div class="slider" data-slider data-initial-start="50" data-end="200">
+      <span class="slider-handle"  data-slider-handle role="slider" tabindex="1"></span>
+      <span class="slider-fill" data-slider-fill></span>
+      <input type="hidden">
     </div>
+
+
 
     <div class="spacer">
 
