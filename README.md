@@ -5,4 +5,4 @@ This repo's code is written by following the "13-Build a Bootstrap Theme With Sc
 <br/>You can also follow him on Facebook: https://www.facebook.com/traversymedia/
 <br/>You can also visit: https://www.patreon.com/traversymedia/
 
-<br/> N.B: Code content  for each video tutorial for this series has been placed at branch having the name of the video tutorial
+
